@@ -1,1 +1,1 @@
-# Template for Machine Learning projects
+# Proyecto de regresion lineal regularizada.
